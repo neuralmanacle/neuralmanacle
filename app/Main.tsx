@@ -9,7 +9,7 @@ const MAX_DISPLAY = 5
 export default function Home({ posts }) {
   return (
     <>
-      <div className="divide-y divide-black-200 dark:divide-black-700">
+      <div className="black-200·dark:divide-black-700·divide-y">
         <div className="space-y-2 pb-8 pt-6 md:space-y-5">
           {/* <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Latest
@@ -18,7 +18,7 @@ export default function Home({ posts }) {
            
           </p> */}
         </div>
-        <ul className="divide-y divide-black-200 dark:divide-black-700">
+        <ul className="black-200·dark:divide-black-700·divide-y">
           {!posts.length && 'No posts found.'}
           {posts.slice(0, MAX_DISPLAY).map((post) => {
             const { slug, date, title, summary, tags } = post
