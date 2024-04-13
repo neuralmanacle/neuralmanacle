@@ -13,6 +13,12 @@ const projectsData = [
     href: 'https://react-basic-tictactoe.vercel.app/'
     
   },
+  {
+    title: 'Geetha',
+    imgSrc: '/static/images/conch.png',
+    description: 'The Song of God from the Hindu Mythology',
+    href: 'https://https://geetha-mauve.vercel.app/'
+  }
 ]
 
 export default projectsData
