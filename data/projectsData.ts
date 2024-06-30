@@ -18,6 +18,12 @@ const projectsData = [
     imgSrc: '/static/images/conch.png',
     description: 'The Song of God from the Hindu Mythology',
     href: 'https://https://geetha-mauve.vercel.app/'
+  },
+  {
+    title: 'Netflix Landing Page',
+    imgSrc: '/static/images/NetflixLandingPage.png',
+    description: 'Netflix Landing Page using HTML, CSS and JS',
+    href: ''
   }
 ]
 
