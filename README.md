@@ -3,9 +3,9 @@
 <h4 style="font-family: Arial, sans-serif; text-align: center;">Remote(India)</h4>
 <h2 style="font-family: Arial, sans-serif; text-align: center;">Software Engineer</h2>
 
-- 🔭 I’m currently working on **Portfolio Website**
-- 🌱 I’m currently learning **React.js**
-- 📝 I regularly write articles on my <a href="neuralmanacle.vercel.app">Portfolio
+- 🔭 I’m currently working on **Self**
+- 🌱 I’m currently learning **Next.js**
+- 📝 I regularly write articles on my <a href="neuralmanacle.vercel.app">Blog
 - 💬 Ask me about Anything
 - 📫 How to reach me arjunshenoy@gmail.com
 
@@ -24,7 +24,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=neuralmanacle&theme=merko)](https://git.io/streak-stats)
 
-![](https://leetcard.jacoblin.cool/neuralmanacle?theme=nord&font=Be%20Vietnam%20Pro&ext=heatmap)
+![](https://leetcard.jacoblin.cool/arjunshen0y?theme=nord&font=Be%20Vietnam%20Pro&ext=heatmap)
 
 <h1>Drop By For Anything</h1>
 <p>
@@ -38,10 +38,3 @@
 <br>
 <br>
 <br>
-
-<h1> My Gifts To The World as Sound!! Stream ON</h1>
-<p>
-<a href="https://open.spotify.com/artist/3YytkHPmRTI4ra9ksQZ8nw?si=y8dY8gIgT6SrqacWcLwhEQ" target="blank">
-  <img align="left" src="https://skillicons.dev/icons?i=spotify" alt="arjunshenoy23" height="60" width="60" />
-</a>
-</p>
