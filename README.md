@@ -3,8 +3,8 @@
 <h4 style="font-family: Arial, sans-serif; text-align: center;">Remote(India)</h4>
 <h2 style="font-family: Arial, sans-serif; text-align: center;">Software Engineer</h2>
 
-- 🔭 I’m currently working on **Self**
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently working on **Django SaaS Application**
+- 🌱 I’m currently learning **Django**
 - 📝 I regularly write articles on my <a href="neuralmanacle.vercel.app">Blog
 - 💬 Ask me about Anything
 - 📫 How to reach me arjunshenoy@gmail.com
