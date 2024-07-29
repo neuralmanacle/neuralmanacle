@@ -7,15 +7,6 @@ interface MusicCardProps {
   spotifyLink: string;
 }
 
-import Image from 'next/image';
-
-interface MusicCardProps {
-  albumArt: string;
-  songTitle: string;
-  artistName: string;
-  spotifyLink: string;
-}
-
 const MusicCard: React.FC<MusicCardProps> = ({
   albumArt,
   songTitle,
