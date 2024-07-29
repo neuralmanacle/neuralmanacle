@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'Marketplace',
+    imgSrc: '/static/images/market.png',
+    description: 'E-commerce website using Django',
+    href: ''
+  },
+  {
     title: 'Portfolio built on Next.js Template',
     imgSrc: '/static/images/logos.png',
     description: 'This blog and portfolio website which will be in constant development',
@@ -24,7 +30,8 @@ const projectsData = [
     imgSrc: '/static/images/NetflixLandingPage.png',
     description: 'Netflix Landing Page using HTML, CSS and JS',
     href: ''
-  }
+  },
+
 ]
 
 export default projectsData
