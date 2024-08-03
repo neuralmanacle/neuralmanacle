@@ -1,18 +1,14 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
+  title: 'Arjuns Portfolio',
   author: 'Arjun Shenoy',
-  headerTitle: 'neuralmanacle',
+  headerTitle: 'neuralManacle',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '',
-  socialBanner: '',
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
-  github: 'https://github.com/arjunshen0y',
+  email: 'arjunshenoy23@gmail.com',
+  github: 'https://github.com/neuralmanacle',
   twitter: 'https://twitter.com/neuralmanacle',
   youtube: 'https://youtube.com/',
   linkedin: 'https://www.linkedin.com/in/arjunshenoy23/',
@@ -64,9 +60,9 @@ const siteMetadata = {
       metadata: '0',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
-      theme: 'light',
+      theme: 'dark_dimmed',
       // theme when dark mode
-      darkTheme: 'transparent_dark',
+      darkTheme: 'dark_high_contrast',
       // If the theme option above is set to 'custom`
       // please provide a link below to your custom theme css file.
       // example: https://giscus.app/themes/custom_example.css
