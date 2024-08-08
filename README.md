@@ -3,8 +3,8 @@
 <h4 style="font-family: Arial, sans-serif; text-align: center;">Remote(India)</h4>
 <h2 style="font-family: Arial, sans-serif; text-align: center;">Software Engineer</h2>
 
-- 🔭 I’m currently working on **Django SaaS Application**
-- 🌱 I’m currently learning **Django**
+- 🔭 I’m currently working on **Self**
+- 🌱 I’m currently learning **Nextjs & TypeScript**
 - 📝 I regularly write articles on my <a href="neuralmanacle.vercel.app">Blog
 - 💬 Ask me about Anything
 - 📫 How to reach me arjunshenoy@gmail.com
@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,styledcomponents,python,django,fastapi,flask,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,python,django,fastapi,flask,figma" />
   </a>
 </p>
 <br>
