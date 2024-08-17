@@ -10,8 +10,7 @@ export default function Home({ posts }) {
   return (
     <>
       <div className="black-200·dark:divide-black-700·divide-y">
-        <div className="space-y-2 pb-8 pt-6 md:space-y-5">
-        </div>
+        <div className="space-y-2 pb-8 pt-6 md:space-y-5"></div>
         <ul className="black-200·dark:divide-black-700·divide-y">
           {!posts.length && 'No posts found.'}
           {posts.slice(0, MAX_DISPLAY).map((post) => {
@@ -65,9 +64,7 @@ export default function Home({ posts }) {
         </ul>
       </div>
       {posts.length > MAX_DISPLAY && (
-        <div className="flex justify-end text-base font-medium leading-6">
-          
-        </div>
+        <div className="flex justify-end text-base font-medium leading-6"></div>
       )}
       {siteMetadata.newsletter?.provider && (
         <div className="flex items-center justify-center pt-4">
