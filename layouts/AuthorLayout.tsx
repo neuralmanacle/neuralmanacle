@@ -14,9 +14,11 @@ export default function AuthorLayout({ children, content }: Props) {
   return (
     <>
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <div className="space-x-2 pb-8 pt-6 md:space-y-15">
+        <div className="md:space-y-15·space-x-2·pb-8·pt-6">
           <p className=" pl-6 pt-2 text-3xl leading-6 text-gray-700 dark:text-gray-300">
-          * Hi I'm Arjun a.k.a NeuralManacle.<br/><br/>
+          * Hi I'm Arjun a.k.a NeuralManacle.
+          <br/>
+          <br/>
           * A software engineer with a generalist approach towards solving problems.<br/><br/>
           * Proficient in Python, JavaScript and C++. <br/><br/>
           * I like building scalable web applications. <br/><br/>

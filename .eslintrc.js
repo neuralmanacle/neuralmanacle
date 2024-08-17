@@ -33,6 +33,8 @@ module.exports = {
       },
     ],
     'react/prop-types': 0,
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-page-custom-font": "off"
     '@typescript-eslint/no-unused-vars': 0,
     'react/no-unescaped-entities': 0,
     '@typescript-eslint/explicit-module-boundary-types': 'off',
