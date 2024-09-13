@@ -1,10 +1,10 @@
 import Image from 'next/image'
 
 interface MusicCardProps {
-  `·albumArt,
-  ·songTitle,
-  ·artistName,
-  ·spotifyLink·`
+  albumArt: string;     // URL or path to the album art image
+  songTitle: string;    // Title of the song
+  artistName: string;   // Name of the artist
+  spotifyLink: string;  // URL to the Spotify song or album
 }
 
 const MusicCard: React.FC<MusicCardProps> = ({
