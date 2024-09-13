@@ -10,7 +10,8 @@ export default function Home({ posts }) {
   return (
     <>
       <div className="black-200·dark:divide-black-700·divide-y">
-        <div className="space-y-2 pb-8 pt-6 md:space-y-5"></div>
+        <div className="space-y-2 pb-8 pt-6 md:space-y-5">
+        </div>
         <ul className="black-200·dark:divide-black-700·divide-y">
           {!posts.length && 'No posts found.'}
           {posts.slice(0, MAX_DISPLAY).map((post) => {
