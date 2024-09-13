@@ -16,14 +16,14 @@ export default function AuthorLayout({ children, content }: Props) {
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="md:space-y-15·space-x-2·pb-8·pt-6">
           <p className=" pl-6 pt-2 text-3xl leading-6 text-gray-700 dark:text-gray-300">
-          * Hi I'm Arjun a.k.a NeuralManacle.
+          * Hi!!👋  I'm Arjun a.k.a NeuralManacle.
           <br/>
           <br/>
-          * A software engineer with a generalist approach towards solving problems.<br/><br/>
+          * A software engineer with a keen approach towards solving problems.<br/><br/>
           * Proficient in Python, JavaScript and C++. <br/><br/>
           * I like building scalable web applications. <br/><br/>
-          * I'm actively looking for web development roles.<br/><br/>
-          * I make electronic music apart from code.<br/><br/>
+          * I'm actively looking for software development roles.<br/><br/>
+          * I produce multi-genre music apart from code.<br/><br/>
           * Download My Resume &darr;
           </p>
         </div>
