@@ -3,7 +3,7 @@
 <h4 style="font-family: Arial, sans-serif; text-align: center;">Remote(India)</h4>
 <h2 style="font-family: Arial, sans-serif; text-align: center;">Software Engineer</h2>
 
-- 🔭 I’m currently working on **NeuraSynth & Portfolio**
+- 🔭 I’m currently working on **Woofle & Portfolio**
 - 🌱 I’m currently learning **Nextjs & TypeScript**
 - 📝 I regularly write articles on my <a href="neuralmanacle.vercel.app">Blog
 - 💬 Ask me about Anything
