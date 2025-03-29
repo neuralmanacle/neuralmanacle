@@ -3,9 +3,9 @@
 <h4 style="font-family: Arial, sans-serif; text-align: center;">Remote(India)</h4>
 <h2 style="font-family: Arial, sans-serif; text-align: center;">Software Engineer</h2>
 
-- 🔭 I’m currently working on **Woofle & Portfolio**
-- 🌱 I’m currently learning **Nextjs & TypeScript**
-- 📝 I regularly write articles on my <a href="neuralmanacle.vercel.app">Blog
+- 🔭 I’m currently working on ****
+- 🌱 I’m currently learning **JavaScript Fundamentals**
+- 📝 I regularly write articles on my {}
 - 💬 Ask me about Anything
 - 📫 How to reach me arjunshenoy@gmail.com
 
