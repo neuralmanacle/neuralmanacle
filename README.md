@@ -4,7 +4,7 @@
 <h2 style="font-family: Arial, sans-serif; text-align: center;">Software Engineer</h2>
 
 - 🔭 I’m currently working on ****
-- 🌱 I’m currently learning **JavaScript Fundamentals**
+- 🌱 I’m currently learning **React**
 - 📝 I regularly write articles on my {}
 - 💬 Ask me about Anything
 - 📫 How to reach me arjunshenoy@gmail.com
@@ -29,9 +29,6 @@
 <h1>Drop By For Anything</h1>
 <p>
 <a href="https://linkedin.com/in/arjunshenoy23" target="blank"><img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="arjunshenoy23" height="60" width="60" /></a>
-</p>
-<p>
-<a href="https://twitter.com/neuralmanacle" target="blank"><img align="left" src="https://skillicons.dev/icons?i=twitter" alt="arjunshenoy23" height="60" width="60" /></a>
 </p>
 
 <br>
