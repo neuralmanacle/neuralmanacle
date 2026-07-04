@@ -4,6 +4,6 @@ I'm Arjun (aka **neuralmanacle**). I am an engineer learning, building, and blog
 
 - 🌱 **Currently learning:** [Deep Learning for Audio with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
 - 🤔 **Looking for:** Mentorship and guidance from senior AI engineers in the domain. 
-- 📫 **How to reach me:** [tech.noishey@gmail.com](mailto:tech.noishey@gmail.com)
+- 📫 **How to reach me:** [arjunshenoy23@gmail.com](mailto:tech.noishey@gmail.com)
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** George Harrison once called India his "spiritual home."
