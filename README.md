@@ -1,8 +1,8 @@
 ## Namaste 🙏
 
-I'm Arjun (aka **neuralmanacle**). I am an indie engineer learning, researching, building, and blogging in the field of **AI in Audio, Speech, and Music**.
+I'm Arjun (aka **neuralmanacle**). I am an indie engineer learning, researching, building, and blogging in the field of **Music Tech**.
 
-- 🌱 **Currently learning:** [Deep Learning for Audio with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
+- 🌱 **Currently building:** A child friendly cross-platform Tanpura application to aid music teachers education.
 - 🤔 **Looking for:** Mentorship and guidance from senior AI engineers in the domain. 
 - 📫 **How to reach me:** [arjunshenoy23@gmail.com](mailto:tech.noishey@gmail.com)
 - 😄 **Pronouns:** he/him
