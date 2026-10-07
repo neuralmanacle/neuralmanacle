@@ -1,4 +1,4 @@
-## Namaste 🙏
+## Hola 👋
 
 I'm Arjun (aka **Neural Manacle**). 
 
